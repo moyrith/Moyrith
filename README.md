@@ -12,8 +12,6 @@
 ><br/><br/><a href="https://www.credly.com/badges/db31fe9a-140b-4226-b4ba-afa291ab77ca/public_url"><img style="width:100px; height:auto;" src="https://raw.githubusercontent.com/mohadev01-resources/Icons/refs/heads/main/Badges/meta-front-end-developer-certificate.png" alt="Meta Front-End Developer Professional Certificate Credly Badge"><a/>\
 ><br/>🛠️ ***Tech Stack***
 ><br/><br/>[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,vercel,netlify,vscode )](https://skillicons.dev )\
-><br/>⚡︎ ***Learning***
-><br/><br/>[![My Skills](https://skillicons.dev/icons?i=vite,ts,tailwind,next )](https://skillicons.dev )\
 ><br/>✨ ***Vibe Coding Stack***
 ><br/><br/>[![Bolt.new (Plastic)](https://custom-icon-badges.demolab.com/badge/Bolt.new-000000?style=plastic&logo=bolt01 )](https://bolt.new )
 >[![Lovable.dev (Plastic)](https://custom-icon-badges.demolab.com/badge/Lovable.dev-FFFFFF?style=plastic&logo=lovable01 )](https://lovable.dev )
