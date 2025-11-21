@@ -22,7 +22,4 @@
 >[![AICurated (Social)](https://custom-icon-badges.demolab.com/badge/AICurated-1A56DB?style=social&logo=aicurated&logoColor=white )](https://aicurated.vercel.app )\
 ><br/>🙋‍♂ Explore my repositories. Always open to **Collaboration** and **Connection**!\
 ><br/>[![X Follow (Social)](https://custom-icon-badges.demolab.com/badge/Follow-1D9BF0?style=social&logo=x-follow&logoColor=1D9BF0 )](https://x.com/moyrith )
-[![LinkedIn Follow](https://custom-icon-badges.demolab.com/badge/Connect-0A66C2?style=social&logo=linkedin-follow )](https://www.linkedin.com/in/moyrith )\
-><br/><br/><a href="https://ko-fi.com/Z8Z31COJGC">
-    <img style="width: 80px; height: auto;" src="https://raw.githubusercontent.com/mohadev01-resources/Icons/refs/heads/main/Ko-fi-Gifs/Sticker%20logo.gif" alt="Ko-fi">
-</a>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=2500&pause=200&color=9198A1&center=false&vCenter=false&width=170&height=35&lines=Support;Buy+me+a+Coffee )](https://git.io/typing-svg )
+[![LinkedIn Follow](https://custom-icon-badges.demolab.com/badge/Connect-0A66C2?style=social&logo=linkedin-follow )](https://www.linkedin.com/in/moyrith )
