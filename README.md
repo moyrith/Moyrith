@@ -12,11 +12,11 @@
 ><br/><br/><a href="https://www.credly.com/badges/db31fe9a-140b-4226-b4ba-afa291ab77ca/public_url"><img style="width:100px; height:auto;" src="https://raw.githubusercontent.com/mohadev01-resources/Icons/refs/heads/main/Badges/meta-front-end-developer-certificate.png" alt="Meta Front-End Developer Professional Certificate Credly Badge"><a/>\
 ><br/>🛠️ ***Tech Stack***
 ><br/><br/>![My Skills](https://skills.syvixor.com/api/icons?i=html,css,javascript,reactjs,bootstrap,git,github,vercel,netlify,visualstudiocode)\
-><br/>✨ ***Vibe Coding Stack***
+><br/>✨ ***Vibe Stack***
 ><br/><br/>[![Bolt.new (Plastic)](https://custom-icon-badges.demolab.com/badge/Bolt.new-000000?style=plastic&logo=bolt01 )](https://bolt.new )
 >[![Lovable.dev (Plastic)](https://custom-icon-badges.demolab.com/badge/Lovable.dev-FFFFFF?style=plastic&logo=lovable01 )](https://lovable.dev )
 >[![v0.dev (Plastic)](https://custom-icon-badges.demolab.com/badge/v0.dev-FFFFFF?style=plastic&logo=v01 )](https://v0.dev )\
-><br/>🔥 ***Vibe-Coded Projects***
+><br/>🔥 ***Vibe Projects***
 ><br/><br/>[![Marksy (Social)](https://custom-icon-badges.demolab.com/badge/Marksy-1A56DB?style=social&logo=marksy&logoColor=white )](https://marksy.netlify.app )
 >[![FER (Social)](https://custom-icon-badges.demolab.com/badge/FER-1A56DB?style=social&logo=fer1&logoColor=white )](https://fer.lovable.app )
 >[![AICurated (Social)](https://custom-icon-badges.demolab.com/badge/AICurated-1A56DB?style=social&logo=aicurated&logoColor=white )](https://aicurated.vercel.app )\
