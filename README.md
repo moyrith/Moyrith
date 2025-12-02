@@ -22,15 +22,15 @@ Open to collaboration and freelance opportunities.
 ## 🔥 Featured Projects
 **Marksy** 🔖 - Smart bookmark organizer with AI categorization\
 [Demo](https://marksy.netlify.app) | Built with: Bolt.new\
-*Impact:* *Attracted 100+ active users and recorded over 900 key events.*
+*Impact:* *Attracted 120+ active users and recorded over 900 key events.*
 
 **FER** 🗺️ - Interactive Front-End Developer Roadmap 2025+\
 [Demo](https://fer.lovable.app) | Built with: Lovable.dev\
-*Impact:* *TBD*
+*Impact:* *Attracted 100+ active users and recorded over 500 key events.*
 
 **AICurated** 🤖 - Curated directory of 100+ AI tools\
 [Demo](https://aicurated.vercel.app) | Built with: v0.dev\
-*Impact:* *Engaged 55+ active users and generated over 430 key events.*
+*Impact:* *Engaged 280+ active users and generated over 430 key events.*
 
 ## ⭐ Achievements
 - Meta Front-End Developer Professional Certificate
