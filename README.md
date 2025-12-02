@@ -1,3 +1,10 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&duration=2500&color=9198A1FF&center=true&vCenter=true&lines=Hi!+I'm+Mohamed+:D;Front-End+Developer;Vibe+Coder;Knowledge+Hunter;Lifelong+Learner )](https://git.io/typing-svg )
+
+</div>
+
+
 # Mohamed Younis | Front-End Developer & Indie Hacker
 
 7th Semester CS Student @ Middle East University, Jordan\
