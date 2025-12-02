@@ -5,8 +5,8 @@ Building SaaS products and digital tools. Shipping fast with AI-powered developm
 Open to collaboration and freelance opportunities.
 
 ## 💼 Experience
-- Freelance Web Developer - Building custom solutions for clients
-- Indie Hacker - Launched 3 web apps
+- Freelance Frontend Developer - Building custom solutions for clients
+- Indie Hacker - Launched 3 web apps: Marksy solved my problem, FER helped aspiring Frontend Developers, AICurated helped my friend find the AI tools that increased his productivity.
 - Building in Public on X/Twitter @moyrith
 
 ## 🚀 Current Focus
@@ -14,13 +14,16 @@ Open to collaboration and freelance opportunities.
 
 ## 🔥 Featured Projects
 **Marksy** 🔖 - Smart bookmark organizer with AI categorization\
-[Demo](https://marksy.netlify.app) | Built with: Bolt.new
+[Demo](https://marksy.netlify.app) | Built with: Bolt.new\
+*Impact:* *Attracted 100+ active users and recorded over 900 key events.*
 
 **FER** 🗺️ - Interactive Front-End Developer Roadmap 2025+\
-[Demo](https://fer.lovable.app) | Built with: Lovable.dev
+[Demo](https://fer.lovable.app) | Built with: Lovable.dev\
+*Impact:* *TBD*
 
 **AICurated** 🤖 - Curated directory of 100+ AI tools\
-[Demo](https://aicurated.vercel.app) | Built with: v0.dev
+[Demo](https://aicurated.vercel.app) | Built with: v0.dev\
+*Impact:* *Engaged 55+ active users and generated over 430 key events.*
 
 ## ⭐ Achievements
 - Meta Front-End Developer Professional Certificate
