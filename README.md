@@ -10,8 +10,6 @@ Open to collaboration and freelance opportunities.
 - Building in Public on X/Twitter @moyrith
 
 ## 🚀 Current Focus
-- Shipping 1 product every 7 days
-- Mastering rapid prototyping with Bolt.new & v0.dev
 - Growing online audience and digital product sales
 
 ## 🔥 Featured Projects
