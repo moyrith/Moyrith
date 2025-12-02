@@ -1,25 +1,38 @@
-<div align="center">
+# Mohamed Younis | Front-End Developer & Indie Hacker
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&duration=2500&color=9198A1FF&center=true&vCenter=true&lines=Front-End+Developer;Vibe+Coder;Knowledge+Hunter;Lifelong+Learner )](https://git.io/typing-svg )
+7th Semester CS Student @ Middle East University, Jordan
+Building SaaS products and digital tools. Shipping fast with AI-powered development.
+Open to collaboration and freelance opportunities.
 
-</div>
+## 💼 Experience
+- Freelance Web Developer - Building custom solutions for clients
+- Indie Hacker - Launched 3 web apps
+- Building in Public on X/Twitter @moyrith
 
->![Visitors (Plastic)](https://komarev.com/ghpvc/?username=mohadev01&label=Visitors&color=000000&style=plastic )\
-><br/>👨‍🎓 7th Sem **CS** student @ **Middle East University, Jordan**.\
->🧠 Exploring **trends**. Experimenting with **tools**. Evolving **daily**.\
->⚽🎮 Competitive **Footballer** and **Gamer**.\
-><br/>★ ***Certificates***
-><br/><br/><a href="https://www.credly.com/badges/db31fe9a-140b-4226-b4ba-afa291ab77ca/public_url"><img style="width:100px; height:auto;" src="https://raw.githubusercontent.com/mohadev01-resources/Icons/refs/heads/main/Badges/meta-front-end-developer-certificate.png" alt="Meta Front-End Developer Professional Certificate Credly Badge"><a/>\
-><br/>🛠️ ***Tech Stack***
-><br/><br/>![My Skills](https://skills.syvixor.com/api/icons?i=html,css,javascript,reactjs,bootstrap,git,github,vercel,netlify,visualstudiocode)\
-><br/>✨ ***Vibe Stack***
-><br/><br/>[![Bolt.new (Plastic)](https://custom-icon-badges.demolab.com/badge/Bolt.new-000000?style=plastic&logo=bolt01 )](https://bolt.new )
->[![Lovable.dev (Plastic)](https://custom-icon-badges.demolab.com/badge/Lovable.dev-FFFFFF?style=plastic&logo=lovable01 )](https://lovable.dev )
->[![v0.dev (Plastic)](https://custom-icon-badges.demolab.com/badge/v0.dev-FFFFFF?style=plastic&logo=v01 )](https://v0.dev )\
-><br/>🔥 ***Vibe Projects***
-><br/><br/>[![Marksy (Social)](https://custom-icon-badges.demolab.com/badge/Marksy-1A56DB?style=social&logo=marksy&logoColor=white )](https://marksy.netlify.app )
->[![FER (Social)](https://custom-icon-badges.demolab.com/badge/FER-1A56DB?style=social&logo=fer1&logoColor=white )](https://fer.lovable.app )
->[![AICurated (Social)](https://custom-icon-badges.demolab.com/badge/AICurated-1A56DB?style=social&logo=aicurated&logoColor=white )](https://aicurated.vercel.app )\
-><br/>🙋‍♂ Explore my repositories. Always open to **Collaboration** and **Connection**!\
-><br/>[![X Follow (Social)](https://custom-icon-badges.demolab.com/badge/Follow-1D9BF0?style=social&logo=x-follow&logoColor=1D9BF0 )](https://x.com/moyrith )
+## 🚀 Current Focus
+- Shipping 1 product every 7 days
+- Mastering rapid prototyping with Bolt.new & v0.dev
+- Growing online audience and digital product sales
+
+## 🔥 Featured Projects
+**Marksy** 🔖 - Smart bookmark organizer with AI categorization
+[Demo](https://marksy.netlify.app) | Built with: Bolt.new
+
+**FER** 🗺️ - Interactive Front-End Developer Roadmap 2025+
+[Demo](https://fer.lovable.app) | Built with: Lovable.dev
+
+**AICurated** 🤖 - Curated directory of 200+ AI tools
+[Demo](https://aicurated.vercel.app) | Built with: v0.dev
+
+## ⭐ Achievements
+- Meta Front-End Developer Professional Certificate
+- 10+ GitHub stars across projects
+- Built and shipped 3 production apps in 2025
+
+## 🛠️ Tech Stack
+![My Skills](https://skills.syvixor.com/api/icons?i=html,css,javascript,reactjs,bootstrap,git,github,vercel,netlify,visualstudiocode)\
+
+## 📫 Let's Connect
+Always open to collaboration and new opportunities!
+[![X Follow (Social)](https://custom-icon-badges.demolab.com/badge/Follow-1D9BF0?style=social&logo=x-follow&logoColor=1D9BF0 )](https://x.com/moyrith )
 [![LinkedIn Follow](https://custom-icon-badges.demolab.com/badge/Connect-0A66C2?style=social&logo=linkedin-follow )](https://www.linkedin.com/in/moyrith )
