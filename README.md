@@ -7,7 +7,7 @@
 
 # Mohamed Younis | Front-End Developer & Indie Hacker
 
-7th Semester CS Student @ Middle East University, Jordan\
+8th Semester CS Student @ Middle East University, Jordan\
 Building SaaS products and digital tools. Shipping fast with AI-powered development.\
 Open to collaboration and freelance opportunities.
 
