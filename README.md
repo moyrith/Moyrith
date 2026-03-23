@@ -6,3 +6,4 @@
 
 [![X Follow (Social)](https://custom-icon-badges.demolab.com/badge/Follow-1D9BF0?style=social&logo=x-follow&logoColor=1D9BF0 )](https://x.com/moyrith )
 [![LinkedIn Follow](https://custom-icon-badges.demolab.com/badge/Connect-0A66C2?style=social&logo=linkedin-follow )](https://www.linkedin.com/in/moyrith )
+[![DM me](https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail)](mailto:mohamed@moyrith.com)
